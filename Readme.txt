@@ -5,4 +5,4 @@ Personal project using MVC patern of a supermarket where the user can sing in, l
 
 Langages: html, css, php, sql.
 
-[My image](https://github.com/DaciaGG/MarketPHP/homePage.png)
+![My image](https://github.com/DaciaGG/MarketPHP/homePage.png)
